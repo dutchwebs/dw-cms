@@ -7,4 +7,4 @@
     $database = "##DB##";
 
     // Website root url
-    $GLOBALS['website_root'] = "/";
+    $GLOBALS['website_root'] = "/dw-cms";

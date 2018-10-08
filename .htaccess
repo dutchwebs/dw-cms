@@ -4,4 +4,4 @@ Header set X-XSS-Protection "1; mode=block"
 </IfModule>
 RewriteEngine on
 RewriteCond $1 !^(index\.php|ajax|robots\.txt|cms|css|includes|includes/*|js|uploads|initial-setup.php|initial-setup.sql)
-RewriteRule ^(.*)$ /index.php/$1 [L]
+RewriteRule ^(.*)$ /dw-cms/index.php/$1 [L]
