@@ -16,8 +16,10 @@ Getting started:
     
 - Open initial-setup.php in your web browser, this will create a new database and import tables and example data for the cms
 
-- Now you can open https://yourwebsite.com/dw-cms/ and your website should come up.
+- Now you can open website-root/dw-cms/ and your website should come up.
 
-- To login to the cms and change your content please visit: https://yourwebsite.com/dw-cms/cms
+- To login to the cms and change your content please visit: website-root/dw-cms/cms
 
 Good luck and enjoy (-:
+
+For an easy & free way of testing this cms please visit: https://dutchwebs.com/dutchwebs-cms
