@@ -1,6 +1,8 @@
 # dw-cms
 Dutchwebs CMS, open-source php/mysql/ajax WYSIWYG content management system (using CKEditor & KCFinder)
 
+![alt text](https://dutchwebs.com/uploads/images/dw-cms-mockup-laptop-1.png)
+
 Getting started:
 
 - Clone repo: "git clone https://github.com/dutchwebs/dw-cms.git"
@@ -17,6 +19,5 @@ Getting started:
 - Now you can open https://yourwebsite.com/dw-cms/ and your website should come up.
 
 - To login to the cms and change your content please visit: https://yourwebsite.com/dw-cms/cms
-
 
 Good luck and enjoy (-:
