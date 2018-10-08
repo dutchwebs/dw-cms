@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+Disallow: /cms
+Disallow: /plugins
+Disallow: /mail
+Disallow: /fonts
+Disallow: /font-awesome
+Disallow: /css
+Disallow: /js
+Disallow: /includes

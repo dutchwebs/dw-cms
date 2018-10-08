@@ -1,0 +1,3 @@
+RewriteEngine on
+RewriteCond $1 !^(index\.php|css|editmenu|img|font-awesome|includes|js|login)
+RewriteRule ^(.*)$ /cms/index.php/$1 [L]
