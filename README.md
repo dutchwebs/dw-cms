@@ -1,5 +1,5 @@
 # dw-cms
-Dutchwebs CMS, open-source php WYSIWYG wrapper (using CKEditor & KCFinder)
+Dutchwebs CMS, open-source php/mysql/ajax WYSIWYG content management system (using CKEditor & KCFinder)
 
 Getting started:
 
